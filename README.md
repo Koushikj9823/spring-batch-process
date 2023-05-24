@@ -1,0 +1,1 @@
+spring-batch-process is a repository which aims to utilize the spring-batch library to process thousands of records.
